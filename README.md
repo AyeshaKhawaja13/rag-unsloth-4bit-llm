@@ -1,4 +1,4 @@
-Retrieval-Augmented Generation (RAG) with Unsloth 4-bit Quantized LLM
+# Retrieval-Augmented Generation (RAG) with Unsloth 4-bit Quantized LLM
  Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using a dynamically quantized 4-bit LLM from Unsloth. The system retrieves relevant document chunks using FAISS vector search and generates grounded responses using a memory-efficient LLM.
